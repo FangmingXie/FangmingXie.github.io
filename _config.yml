@@ -5,10 +5,9 @@ theme: minima
 author:
   name: Fangming Xie
   email: f7xie@ucsd.edu
-  description: >
-    ...
+  description: placeholder
 
-# header_pages: 
+header_pages: 
 - research.md
 - publications.md
 - teaching.md 
