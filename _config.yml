@@ -1,20 +1,24 @@
 # theme: jekyll-theme-minimal
+title: Fangming Xie
 theme: minima
-
 
 author:
   name: Fangming Xie
-  email: "f7xie@ucsd.edu"
+  email: f7xie@ucsd.edu
+  description: >
+    ...
 
-header_pages: 
-- research.md
-- publications.md
-- teaching.md 
-- CV.md # a link to CV pdf
-- about.md # personal
+# header_pages: 
+# - research.md
+# - publications.md
+# - teaching.md 
+# - CV.md # a link to CV pdf
+# - about.md # personal
 
 minima:
   social_links:
-    twitter: jekyllrb
-    github: jekyll
+      github: fangmingxie
+    # twitter:
+    # google scholar:
+
 
