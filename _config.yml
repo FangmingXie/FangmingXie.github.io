@@ -2,5 +2,9 @@
 theme: minima
 
 
+author:
+  name: Fangming Xie
+  email: "f7xie@ucsd.edu"
+
 header_pages: 
 - about.md
