@@ -9,11 +9,11 @@ author:
     ...
 
 # header_pages: 
-# - research.md
-# - publications.md
-# - teaching.md 
-# - CV.md # a link to CV pdf
-# - about.md # personal
+- research.md
+- publications.md
+- teaching.md 
+- CV.md # a link to CV pdf
+- about.md # personal
 
 minima:
   social_links:
