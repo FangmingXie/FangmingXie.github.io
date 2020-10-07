@@ -1,2 +1,6 @@
 # theme: jekyll-theme-minimal
 theme: minima
+
+
+header_pages: 
+- about.md
