@@ -6,14 +6,12 @@ author:
   email: f7xie@ucsd.edu
 description: placeholder
 
-# this restricts header page to the following only (not working?)
-# other wise it links to all other .md (except for README.md)
-# header_pages:  
-# - about.md 
-# - research.md
-# - publications.md
-# - teaching.md 
-# - CV.md # a link to CV pdf
+# this restricts header page to the following only (ordered)
+header_pages:  
+- research.md
+- publications.md
+- teaching.md 
+- CV.md 
 
 # where these go?
 minima:
@@ -22,4 +20,5 @@ minima:
     # twitter:
     # google scholar:
 
+google_analytics: UA-NNNNNNNN-N
 github: [metadata]
