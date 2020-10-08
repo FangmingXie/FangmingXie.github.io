@@ -1,23 +1,25 @@
-# theme: jekyll-theme-minimal
-title: Fangming Xie
 theme: minima
+title: Fangming Xie
 
 author:
   name: Fangming Xie
   email: f7xie@ucsd.edu
-  description: placeholder
+description: placeholder
 
-header_pages: 
-- research.md
-- publications.md
-- teaching.md 
-- CV.md # a link to CV pdf
-- about.md # personal
+# this restricts header page to the following only (not working?)
+# other wise it links to all other .md (except for README.md)
+# header_pages:  
+# - about.md 
+# - research.md
+# - publications.md
+# - teaching.md 
+# - CV.md # a link to CV pdf
 
+# where these go?
 minima:
   social_links:
       github: fangmingxie
     # twitter:
     # google scholar:
 
-
+github: [metadata]
