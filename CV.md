@@ -1,6 +1,6 @@
 ---
 layout: post # post has title, default doesn't  
-title: CV
+title: 
 ---
 
-<object data='./CV.pdf' width="500" height="1000" type="application/pdf"></object>
+<object data='./CV.pdf' width="700" height="1200" type="application/pdf"></object>
