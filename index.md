@@ -2,10 +2,6 @@
 layout: home
 ---
 
-Physics PhD student in Prof. Eran Mukamel's lab at UCSD.
+I am [Fangming Xie](./CV.md), a Physics PhD student in Prof. Eran Mukamel's [lab](brainome.ucsd.edu) at UCSD.
 
-
-
-this is a placeholder
-
-# [CV](./CV.md)
+Here are some data browsers(brainome.ucsd.edu/BICCN_MOp).
