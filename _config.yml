@@ -12,6 +12,7 @@ header_pages:
 # - publications.md
 # - teaching.md 
 - CV.md 
+- Family.md 
 
 # where these go?
 minima:
