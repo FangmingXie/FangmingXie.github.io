@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family 
+title: 
 ---
 
 ![My family](./doc/family.jpg)
