@@ -8,18 +8,18 @@ description:
 
 # this restricts header page to the following only (ordered)
 header_pages:  
+- CV.md 
+- family.md 
 # - research.md
 # - publications.md
 # - teaching.md 
-- CV.md 
-- family.md 
 
 # where these go?
 minima:
   social_links:
-      github: fangmingxie
+      github: FangmingXie
     # twitter:
     # google scholar:
 
-google_analytics: UA-NNNNNNNN-N
-github: [metadata]
+# google_analytics: UA-NNNNNNNN-N
+# github: [metadata]
