@@ -1,5 +1,5 @@
 ---
-layout: default # home
+layout: home
 ---
 
 I am [Fangming Xie](./CV.md), a Physics PhD student in Prof. Eran Mukamel's [lab](https://brainome.ucsd.edu) at UCSD.
