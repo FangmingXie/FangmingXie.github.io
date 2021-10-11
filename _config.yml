@@ -13,14 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fangming Xie 
+title: Fangming Xie
+author: Fangming Xie
 email: f7xie@ucsd.edu 
 description: >- # this means to ignore newlines until "baseurl:"
-  Fangming Xie's personal homepage
+  Fangming Xie's personal site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:  
 github_username: FangmingXie 
+googlescholar_username: Fangming Xie # not shown yet
+ORCID: 0000-0001-5232-1648 # not shown yet
+
+
+header_pages:
+- research.md
+- publications.md
+- teaching.md 
+- CV.md
 
 # Build settings
 markdown: kramdown
