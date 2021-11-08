@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Physics PhD student in Prof. Eran Mukamel's [lab](https://brainome.ucsd.edu) at UCSD.
+Biophysics PhD student in Prof. Eran Mukamel's [lab](https://brainome.ucsd.edu) at UCSD.
 
 - [CV](./doc/CV.pdf)
 - [Google scholar](https://scholar.google.com/citations?user=27FYCbIAAAAJ&hl=en)
